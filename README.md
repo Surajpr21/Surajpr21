@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning/expanding my backend development skills by learning the MERN stack (MongoDB, Express.js, React, and Node.js) and building full-stack applications to strengthen my understanding of scalable web architecture and API development.
 
-- 📫 How to reach me **Email: surajpr2111@gmail.com
+- 📫 How to reach me Email: surajpr2111@gmail.com
 
-- LinkedIn: https://linkedin.com/in/surajprasad-4147631a4**
+- LinkedIn: https://linkedin.com/in/surajprasad-4147631a4
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LnDW8ABnnU3aMtU57OuN2CZSwnyPpvpy/view?usp=drive_link](https://drive.google.com/file/d/1LnDW8ABnnU3aMtU57OuN2CZSwnyPpvpy/view?usp=drive_link)
 
