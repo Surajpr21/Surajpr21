@@ -21,7 +21,7 @@ Hi 👋, I'm Suraj Prasad<br><br>A passionate 💻 Front-End Developer with 2+ y
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surajprasad-4147631a4)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surajpr2111@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View-blue?logo=googledrive&logoColor=white)]
+[![Resume](https://img.shields.io/badge/Resume-View-blue?logo=googledrive&logoColor=white)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
