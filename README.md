@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="left">Hi 👋, I'm Suraj Prasad</h1>
 <h4 align="left">A passionate 💻 Front-End Developer with 2+ years of experience building scalable web applications using React.js and modern JavaScript. I specialize in building responsive, high-performance dashboards and web platforms, integrating REST APIs, and designing clean component-based architectures. I enjoy turning complex ideas into intuitive user interfaces and continuously improving performance and developer experience.frontend developer from India</h4>
 
-- 🔭 I’m currently working on CashPilot. Cash Pilot is a personal finance web application that helps users track expenses, manage subscriptions, and monitor their financial balance in one place. Built with React and Supabase, the app provides a clean dashboard where users can view categorized expenses, subscription costs, and visual analytics through charts and graphs, helping them understand spending patterns and manage their monthly budget more effectively. **CashPilot**
+- 🔭 I’m currently working on CashPilot. Cash Pilot is a personal finance web application that helps users track expenses, manage subscriptions, and monitor their financial balance in one place. Built with React and Supabase, the app provides a clean dashboard where users can view categorized expenses, subscription costs, and visual analytics through charts and graphs, helping them understand spending patterns and manage their monthly budget more effectively.
 
 - 🌱 I’m currently learning/expanding my backend development skills by learning the MERN stack (MongoDB, Express.js, React, and Node.js) and building full-stack applications to strengthen my understanding of scalable web architecture and API development.
 
